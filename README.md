@@ -34,3 +34,15 @@ McKinsey estimates a potential annual value of up to $1.1 trillion if AI tech is
 </p>
 
 There is a need for a technology platform to **Revolutionize the operation of Insurance Sector** and that's how our project **Smart AI Insurance** jumps in!
+## What is Smart AI Insurance?
+
+
+**Smart AI Insurance** is the concatenation of Insurance Company and Customers which together stands as the **Gateway of Insurance-Sector**. Our software is a web application that utilizes cutting-edge modern technologies to *Revolutionize the existing Insurance-Claiming and handling system*! *Smart AI Insurance* is a complete AI-based Insurance handling for everyone, including Customers, Agents & is directly connected with the Perticular Insurance company. It has also a dataset of list of mechanics and are arranged according to the ratings and views for a perticular need of our choice. Please follow through to explore! 
+
+
+
+<p align="center">
+  <img src="https://github.com/Ayanghosh-agno/AI_Insurance/blob/main/images/whole.gif" />
+</p>
+
+A further explanation of how each of these works can be found in the Engineering section below.
