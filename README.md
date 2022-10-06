@@ -100,3 +100,10 @@ Delve deep to explore more!
 
 ### What we learned
 A lot of things, both summed up in technical & non-technical sides. Also not to mention, I had enhanced my googling and Stackoverflow searching skill during the hackathon and beside that I had learned a lot about the IBM-Cloud :)
+
+
+### Accomplishments
+I had explored so many things within 24 hours. It was a tad difficult for me to collaborate with every stack including the frontend backend and the IBM cloud but I am proud of finishing the project on time which seemed like a tough task initially but happily implemented every thing what I had thought of. Lastly, I think the impact of my project could have a significant accomplishment. Especially, trailing the current scenario of COVID19, this could really be a product that both the people and the insurance-company can find useful!
+
+### What's next for Smart AI Insurance
+As previously mentioned, *Smart AI Insurance* is one of the **most technically sound** projects I have made till now, and I would love to expand the wings of my project beyond the hackathon. Apart from fine-tuning the project, I am also planning to give the project with some more features in the operational side which can increase its usability more and can be more effective. 
