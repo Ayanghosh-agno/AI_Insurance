@@ -94,3 +94,9 @@ Delve deep to explore more!
 > 4. Watson Assistant answers policy questions using Watson Discovery's querying capabilities.
 > 5. The chatbot recommends a mechanic based on the type of damage that is done to the vehicle, and on the sentiment of the customer reviews.
 > 6. The User can also apply for a new policy manualy through it which is backed by a insurance moderator.
+
+## Takeaways 
+
+
+### What we learned
+A lot of things, both summed up in technical & non-technical sides. Also not to mention, I had enhanced my googling and Stackoverflow searching skill during the hackathon and beside that I had learned a lot about the IBM-Cloud :)
