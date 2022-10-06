@@ -81,3 +81,16 @@ Delve deep to explore more!
   7) HTML
   8) Java-Script
   9) SAWO-AUTH API
+
+**So, how everything works?**
+
+<p align="center">
+  <img src="https://github.com/Ayanghosh-agno/AI_Insurance/blob/main/images/persona.png" />
+</p>
+
+> 1. Insurance policy documents are uploaded to Watson Discovery, and then annotated using Watson's Smart Document Understanding tool.
+> 2. Mechanic review documents are uploaded to Watson Knowledge Studio, and then annotated to create custom entities and relationships.
+> 3. User chats via web-application UI to talk to Watson Assistant.
+> 4. Watson Assistant answers policy questions using Watson Discovery's querying capabilities.
+> 5. The chatbot recommends a mechanic based on the type of damage that is done to the vehicle, and on the sentiment of the customer reviews.
+> 6. The User can also apply for a new policy manualy through it which is backed by a insurance moderator.
