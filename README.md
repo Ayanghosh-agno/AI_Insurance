@@ -70,3 +70,14 @@ Delve deep to explore more!
 
 ### System Architecture
 ![sys-arch](https://github.com/Ayanghosh-agno/AI_Insurance/blob/main/images/architecture.png)
+
+## Technology Stack:
+  1) IBM-Watson Knowledge Studio
+  2) Natural Language processing
+  3) IBM-Watson Assistance
+  4) IBM-Discovery
+  5) IBM-Virtual Recognition
+  6) React-Js
+  7) HTML
+  8) Java-Script
+  9) SAWO-AUTH API
