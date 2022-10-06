@@ -69,4 +69,4 @@ Delve deep to explore more!
 # Engineering
 
 ### System Architecture
-![sys-arch](https://github.com/Ayanghosh-agno/AI-Insurance-Assistance/blob/main/images/architecture.png)
+![sys-arch](https://github.com/Ayanghosh-agno/AI_Insurance/blob/main/images/architecture.png)
