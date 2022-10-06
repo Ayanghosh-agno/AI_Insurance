@@ -107,3 +107,17 @@ I had explored so many things within 24 hours. It was a tad difficult for me to 
 
 ### What's next for Smart AI Insurance
 As previously mentioned, *Smart AI Insurance* is one of the **most technically sound** projects I have made till now, and I would love to expand the wings of my project beyond the hackathon. Apart from fine-tuning the project, I am also planning to give the project with some more features in the operational side which can increase its usability more and can be more effective. 
+
+**Some of them are**:-
+
+> 1. To implement a ML model which can help the company with the damage detection capabilities.
+> 2. Facial recogniton, to find the database of the particular customer.
+> 3. Number plate detection of the car, So the company can match the database with it.
+
+we're also planning to integrate new user-intuitive features such as refined User access, easy checkout option, adding more such IoT-based inter-device support for maximizing our audience interaction.Though the project basically focuses on the **AUTO-INSURANCE** we can also give some of the features more to use in different Insurance-Sectors. Apart from these, a lot of code needs to be refactored which does include CSS improvements for desktop preview as I couldn't hit so much under 24 hrs. Overall, I hope that one day this project can be widely used among the Insurance community to redefine the existing & remove the backlogs.
+
+
+
+## Contributors:
+
+* [Ayan Ghosh](https://github.com/Ayanghosh-agno)
