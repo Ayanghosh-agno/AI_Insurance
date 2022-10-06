@@ -63,4 +63,10 @@ AI-Insurance currently supports all of the following features!
 > 10. It can detect the car damage type for the insurance company to assist the moderator to take action accordingly.
 > 11. Distinguishable dashboard pages for all of the above.
 
-Delve deep to explore more! 
+Delve deep to explore more!
+
+
+# Engineering
+
+### System Architecture
+![sys-arch](https://github.com/Ayanghosh-agno/AI-Insurance-Assistance/blob/main/images/architecture.png)
